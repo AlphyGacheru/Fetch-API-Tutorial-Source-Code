@@ -1,0 +1,24 @@
+{
+  "cars": [
+    {
+      "id": "1",
+
+      "title": "Range Rover",
+
+      "image": "https://images.unsplash.com/photo-1604054094723-3a949e4a8993?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1560&q=80"
+    },
+    {
+      "id": "2",
+
+      "title": "Tesla",
+      "image": "https://images.unsplash.com/photo-1617704548623-340376564e68?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8dGVzbGElMjBtb2RlbCUyMHN8ZW58MHx8MHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
+    },
+
+    {
+      "id": "3",
+
+      "title": "Mercedes Benz",
+      "image": "https://images.unsplash.com/photo-1616788805091-708cf11cb173?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Njl8fG1lcmNlZGVzJTIwYmVuenxlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
+    }
+  ]
+}
